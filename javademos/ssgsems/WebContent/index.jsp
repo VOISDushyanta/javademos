@@ -9,5 +9,6 @@
 <body>
 	<h1>SSGS IT EDUCON Services Pvt. Ltd.</h1><br>
 	<h2>Azure DevOps Training and Consulting</h2>
+	<h2>Welcome to VOIS</h2>
 </body>
 </html>
